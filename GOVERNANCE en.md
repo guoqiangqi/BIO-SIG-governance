@@ -95,10 +95,7 @@ aspect of the project, including its philosophy, design, road map, and APIs.
 *If it's part of the project, it's in the repo. If it's in the repo, it's part
 of the project.*
 
-As a result, each decision can be expressed as a change to the repository. An
-implementation change is expressed as a change to the source code. An API
-change is a change to the API specification. A philosophy change is a change
-to the philosophy manifesto, and so on.
+As a result, each decision can be expressed as a change to the repository.
 
 All decisions affecting the BIO-SIG repository, both big and small, follow
 the same steps:
